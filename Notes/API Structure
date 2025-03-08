@@ -1,0 +1,8 @@
+API Development:
+
+Define Endpoints:
+Create endpoints such as:
+POST /users for registration.
+GET /users/{id} for fetching user details.
+PUT /users/{id} for updating preferences.
+DELETE /users/{id} for unsubscription.
