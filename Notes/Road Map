@@ -1,0 +1,1 @@
+Client (Web application) -> API Gateway (Cloud Endpoints) -> User Subscription Service -> Database (Cloud SQL or Firestore) -> Messaging (Cloud Pub/Sub) -> Weather API Service  
