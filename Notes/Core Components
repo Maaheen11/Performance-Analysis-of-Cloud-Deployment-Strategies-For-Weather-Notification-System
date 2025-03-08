@@ -1,4 +1,4 @@
-•	User Subscription Service:
+#•	User Subscription Service:
 A Python-based REST API (using Flask or FastAPI) that handles user registration, preference management, and unsubscriptions.
 •	Database:
 Use Cloud Firestore (for document-based storage) or Cloud SQL (for relational data) to store user profiles.
