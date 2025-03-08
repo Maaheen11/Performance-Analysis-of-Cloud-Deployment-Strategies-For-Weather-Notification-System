@@ -1,0 +1,12 @@
+•	User Subscription Service:
+A Python-based REST API (using Flask or FastAPI) that handles user registration, preference management, and unsubscriptions.
+•	Database:
+Use Cloud Firestore (for document-based storage) or Cloud SQL (for relational data) to store user profiles.
+•	API Gateway:
+Manage and secure your APIs with Cloud Endpoints.
+•	Messaging Layer:
+Google Cloud Pub/Sub can asynchronously send notifications or trigger workflows in the Weather API Service.
+•	*Deployment & Orchestration:*
+Containerize your Python service with Docker and deploy on Cloud Run for a serverless experience—or use GKE for more control if needed.
+•	*Monitoring & Security:*
+Integrate Cloud Monitoring and Logging for real-time insights and use Firebase Auth or OAuth for securing endpoints.
